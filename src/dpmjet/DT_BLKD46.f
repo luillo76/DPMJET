@@ -1,5 +1,5 @@
 
-      BLOCK DATA DT_BLKD46
+      SUBROUTINE DT_BLKD46
  
       IMPLICIT NONE
       DOUBLE PRECISION AMELCT , AMMUON
@@ -333,4 +333,4 @@ C                                              85
      &     581 , 582 , 583 , 584 , 585 , 586 , 587 , 588 , 589 , 595 , 
      &     601 , 602/
  
-      END BLOCK DATA
+      END

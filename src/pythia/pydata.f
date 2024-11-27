@@ -5,7 +5,7 @@ cc ----------- pythia-6.4 - authors: Torbjorn Sjostrand, Lund'10 -------
 cc ---------------------------------------------------------------------
 cc                                  converted for use with FLUKA -------
 cc                                                      - oct'13 -------
-      BLOCK DATA PYDATA
+      SUBROUTINE PYDATA
  
 C...Double precision and integer declarations.
       IMPLICIT DOUBLE PRECISION(A-H, O-Z)

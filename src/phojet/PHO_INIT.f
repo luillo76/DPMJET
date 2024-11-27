@@ -78,7 +78,9 @@ Cf2py intent(inout) irej
 C     CHARACTER*70 NUMBER,FILENA
       CHARACTER*70 number
 C15   FORMAT(A12)
- 
+
+      CALL DT_BDINIT
+
 C  define input/output units
       IF ( Linp.GE.0 ) THEN
          LPRi = 10

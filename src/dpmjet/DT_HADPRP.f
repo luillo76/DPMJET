@@ -1,5 +1,5 @@
 
-      BLOCK DATA DT_HADPRP
+      SUBROUTINE DT_HADPRP
  
       IMPLICIT NONE
       INTEGER k
@@ -137,4 +137,4 @@ C internal particle names
      &     'AKAONZER' , 'NEUTRIM ' , 'ANEUTRIM' , 'NEUTRIT ' , 
      &     'ANEUTRIT' , 'BLANK   '/
  
-      END BLOCK DATA
+      END

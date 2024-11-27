@@ -1,5 +1,5 @@
 
-      BLOCK DATA DT_ZK
+      SUBROUTINE DT_ZK
  
       IMPLICIT NONE
       SAVE 
@@ -117,4 +117,4 @@ C     Name of decay channel                                            *
      &     'KOPPI-' , 'K+NPI-' , 'AKOPPO' , 'AKONP+' , 'K-PPI+' , 
      &     9*'BLANK'/
 C=                                               end*block.zk      *
-      END BLOCK DATA
+      END

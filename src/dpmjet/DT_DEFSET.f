@@ -1,5 +1,5 @@
 
-      BLOCK DATA DT_DEFSET
+      SUBROUTINE DT_DEFSET
  
       IMPLICIT NONE
       SAVE 
@@ -39,4 +39,4 @@ C / DTCOMP /
 C / DTFLKA /
       DATA LINp , LOUt , LDAt/5 , 19 , 9/
  
-      END BLOCK DATA
+      END

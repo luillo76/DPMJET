@@ -1,5 +1,5 @@
 
-      BLOCK DATA DT_RUNTT
+      SUBROUTINE DT_RUNTT
  
       IMPLICIT NONE
       SAVE 
@@ -8,4 +8,4 @@
  
       DATA RUNtes , EFTes/100.D0 , 100.D0/
  
-      END BLOCK DATA
+      END

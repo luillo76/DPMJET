@@ -1,5 +1,5 @@
 
-      BLOCK DATA DT_BLKD47
+      SUBROUTINE DT_BLKD47
  
       IMPLICIT NONE
       INTEGER i , k
@@ -419,4 +419,4 @@ C Particle numbers in decay channel
      &      14 , 0 , 2*0 , 23 , 13 , 0 , 4*0 , 18*0 , 2*0 , 23 , 14 , 
      &      2*0 , 2*0 , 23 , 14 , 2*0 , 0/
  
-      END BLOCK DATA
+      END

@@ -1,5 +1,5 @@
 
-      BLOCK DATA DT_NONAME
+      SUBROUTINE DT_NONAME
  
       IMPLICIT NONE
       SAVE 
@@ -35,4 +35,4 @@ C
      &     11.8D0 , 11.2D0 , 10.6D0 , 9.8D0 , 9.D0 , 8.25D0 , 7.5D0 , 
      &     6.25D0 , 5.D0 , 4.5D0 , 5*4.D0/
 C
-      END BLOCK DATA
+      END
